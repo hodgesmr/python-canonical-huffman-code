@@ -187,7 +187,7 @@ def compress(input_file_path: str, output_file_path: str):
             y = heapq.heappop(heap)
             # Create a new HeapObject made of internal nodes based on x and y
             # The Heap was created with only Leaf objects, but we're building the code tree with InternalNodes
-            # Once thsi loop gets the heap down to len == 1, we'll have our code tree like:
+            # Once this loop gets the heap down to len == 1, we'll have our code tree like:
             #       .
             #      / \
             #     A   .
