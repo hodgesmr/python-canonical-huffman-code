@@ -1,6 +1,6 @@
 # python-canonical-huffman-code
 
-This implemented a [Canonical Huffman code](https://en.wikipedia.org/wiki/Canonical_Huffman_code) file compressor and decompressor in Python. It has many inefficiencies. I implemented it as a learning exercise. I built it with Python 3.9, but it probably works with many earlier versions of Python 3.It has no requirements!
+This implemented a [Canonical Huffman code](https://en.wikipedia.org/wiki/Canonical_Huffman_code) file compressor and decompressor in Python. It has many inefficiencies. I implemented it as a learning exercise. I built it with Python 3.9, but it probably works with many earlier versions of Python 3. It has no requirements!
 
 ## Usage
 
