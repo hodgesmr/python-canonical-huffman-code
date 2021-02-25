@@ -15,7 +15,6 @@ from __future__ import annotations
 
 import argparse
 import heapq
-import os
 from abc import ABC
 from collections import defaultdict
 from typing import BinaryIO
