@@ -16,10 +16,8 @@ from __future__ import annotations
 import argparse
 import heapq
 import os
-import sys
 from abc import ABC
 from collections import defaultdict
-from pathlib import Path
 from typing import BinaryIO
 
 EOF = 256  # 1 greater than the possible values for input bytes
